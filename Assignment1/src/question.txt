@@ -1,0 +1,15 @@
+1. Populate Category wise items on the screen.
+
+2. Item not in the stock needs to be highlighted with red color.
+
+3. Add a checkbox with the name "Only show products in stock"
+
+a. Show in-stock product when it is checked and vice versa
+
+4. Add the input box above checkbox with the placeholder "Search...",
+
+a. when the user types any item name (partially or full), filtered data should be updated in real-time in the table.
+
+b. Show total search items on top.
+
+5. Add the total price at the bottom of the table, It should be updated in real-time.

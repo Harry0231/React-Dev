@@ -1,0 +1,52 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper{
+  overflow-x: hidden;
+  overflow-y: auto;    
+}
+
+.wrapper h1{
+  margin-top: 30px;
+  text-align: center;
+}
+
+
+
+.wrapper .main{
+  display: flex;
+  margin-top: 20px;
+  align-items: center;
+}
+
+.wrapper .form-container{
+  width: 500px;
+  height: 400px;
+  background-color: #baa1a1cc;
+  margin: 20px auto;
+  padding: 20px;   
+}
+
+.wrapper .form-container .btn{
+  width: 100%;   
+}
+
+.wrapper .view-container{
+  width: 600px;   
+  background-color: #b0d7da;
+  margin: 20px auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.delete-btn{
+  color: rgb(230, 64, 64);
+  cursor: pointer;
+}
+
+tbody{
+  margin-top: 25px;
+}

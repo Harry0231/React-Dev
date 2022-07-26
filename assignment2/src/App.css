@@ -1,0 +1,19 @@
+.container {
+  font-family: sans-serif;
+  padding: 0px 5px;
+  text-align: center;
+
+}
+
+.title {
+  text-align: center;
+}
+
+.flex-hor {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.flex-hor > div {
+  margin: 6px;
+}

@@ -1,0 +1,18 @@
+2. Creating a To-Do List. Requirements as follows:
+
+a. Create a simple form to add details about each task. Form should have the following elements - Input fields for ID, Title of Task and Description of Task. First 2
+fields should be mandatory fields, description can be optional field
+
+b. Form should have create button, which clicked, should add the task in a table. Form should have save button which can be used only when the user wants to
+update an existing task
+
+. Table should display all details about the tasks added.
+
+4. Each row in the table should have 2 buttons - Update and Delete
+
+. Update button should open the form with the details of the selected task and allow the user to update the task. Delete button should delete the selected task.
+£ Once delete button is clicked, a dialog box should open asking the user to confirm th delete action
+
+4g. Table should be sortable on all columns.
+
+h. The entire Ul should be accessible

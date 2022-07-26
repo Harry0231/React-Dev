@@ -1,0 +1,7 @@
+1. render out each piece of gear from inventory on page
+
+2. Add a number on top of the page that is the sum of damage from all pieces of gear that are equipped.
+
+3. Add a toggle button to the gear row that will toggle the isWorn property to inverse.
+
+4. Add logic to toggle to only allow gear to be equipped if another piece of gear is not equipped in the same slot

@@ -1,0 +1,42 @@
+[
+    {
+    "name": "DAVID CARLSON",
+    "age": 30,
+    "address": {
+    "country": "Westeros",
+    "state": "The Crownlands",
+    "city": "london",
+    "pinCode": 500015
+    }
+    },
+    {
+    "name": "JOHN CENA",
+    "age": 35,
+    "address": {
+    "country": "Westeros",
+    "state": "The Crownlands",
+    "city": " canada",
+    "pinCode": 500014
+    }
+    },
+    {
+    "name": "MIKE SHERIDAN",
+    "age": 25,
+    "address": {
+    "country": "Westeros",
+    "state": "The Crownlands",
+    "city":" russia",
+    "pinCode": 500014
+    }
+    },
+    {
+    "name": "Stark CARTE",
+    "age": 50,
+    "address": {
+    "country": "Westeros",
+    "state": "The Crownlands",
+    "city": "delhi",
+    "pinCode": 500013
+    }
+    }
+    ]

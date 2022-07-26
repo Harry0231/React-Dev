@@ -1,0 +1,37 @@
+.button3 {
+    background-color: white;
+    color: black;
+    border: 2px solid hsl(4, 90%, 58%);
+    margin: auto;
+  }
+  
+  .button3:hover {
+    background-color: #f44336;
+    color: white;
+  }
+  
+  .button1 {
+    background-color: white;
+    color: black;
+    border: 2px solid #4caf50;
+    margin-top: 6px;
+  }
+  
+  .button1:hover {
+    background-color: #4caf50;
+    color: white;
+  }
+  
+  .button2 {
+    background-color: white;
+    color: black;
+    border: 2px solid #008cba;
+    margin-top: 5px;
+    padding-left: 20px;
+  }
+  
+  .button2:hover {
+    background-color: #008cba;
+    color: white;
+  }
+  
